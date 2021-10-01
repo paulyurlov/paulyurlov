@@ -12,4 +12,4 @@ I'm a 4th year student 👨‍🎓 of Applied Mathematics and Informatics at Fac
 
 <a href="https://t.me/paulyurlov" target="_blank"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> </a>
 <a href="https://www.linkedin.com/in/paulyurlov" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
-<a href="https://t.me/paulyurlov" target="_blank"> <img src="https://img.shields.io/badge/-%20-fff?logo=kaggle" width="120" height="30"/> </a>
+<a href="https://t.me/paulyurlov" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=kaggle&logoColor=white" /> </a>
