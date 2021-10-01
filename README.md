@@ -4,10 +4,9 @@ I'm a 4th year student 👨‍🎓 of Applied Mathematics and Informatics at Fac
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </p>
 <h4 align="left">Professional interests:</h4>
 
-<img src="https://img.shields.io/badge/-Data%20Science-brightgreen" height=24px/>
-![](https://img.shields.io/badge/-Data%20Science-brightgreen)
-![](https://img.shields.io/badge/-Anlytics-orange)
-![](https://img.shields.io/badge/-Machine%20Learning-blue)
+<img src="https://img.shields.io/badge/-Data%20Science-brightgreen" height=26px/>
+<img src="https://img.shields.io/badge/-Anlytics-orange" height=26px/>
+<img src="https://img.shields.io/badge/-Machine%20Learning-blue" height=26px/>
 
 <h4 align="left">Where to find me:</h4>
 
