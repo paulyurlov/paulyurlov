@@ -7,3 +7,7 @@ I'm a 4th year student 👨‍🎓 of Applied Mathematics and Informatics at Fac
 ![](https://img.shields.io/badge/-Data%20Science-brightgreen)
 ![](https://img.shields.io/badge/-Anlytics-orange)
 ![](https://img.shields.io/badge/-Machine%20Learning-blue)
+
+<h4 align="left">Where to find me:</h4>
+
+https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
