@@ -1,5 +1,5 @@
 <h3 align="Left">Hi 👋, I'm Paul</h3> <img src="https://github.com/paulyurlov/paulyurlov/blob/main/my-octocat-1633068557906.png" alt="giticon" align="right" width="250" height="250"/>
-<h5> I'm a 4th year student 👨‍🎓 of Applied Mathematics and Informatics at Faculty of Computer Science at Higher School of Economics, I live in :ru: Moscow, Russia and currently looking for an internship in Data Science or Analytics. 😄 </h5>
+<h5> I'm a 1st year student 👨‍🎓 Master's student in Intellectual analysis of texts and network structures at Faculty of Information Technology and Big Data Analysis at Financial University under the Government of the Russian Federation. I live in :ru: Moscow, Russia. 😄 </h5>
 
 <h4 align="left">Languages and Tools:</h4>
 <p align="left">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
