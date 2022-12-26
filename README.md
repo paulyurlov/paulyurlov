@@ -52,19 +52,11 @@ I'm a 1st year 👨‍🎓 Master's student in Intellectual analysis of texts an
 
 ---
 
-### :pencil2: My Study Projects :
-
-<div align="left">
-  <a href="https://github.com/paulyurlov/my_diploma">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paulyurlov&repo=my_diploma&layout=compact&theme=tokyonight&hide_border=True" />
-  </a>
-  <a href="https://github.com/paulyurlov/DAB">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paulyurlov&repo=DAB&layout=compact&theme=tokyonight&hide_border=True" />
-  </a>
-</div>
-
----
-
 ### :computer: My Language Stats :
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulyurlov&layout=compact&theme=tokyonight&hide_border=True)
+
+
+---
+
+### :pencil2: My Study Projects :
