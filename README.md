@@ -27,6 +27,13 @@
 
 I'm a 1st year 👨‍🎓 Master's student in Intellectual analysis of texts and network structures at Faculty of Information Technology and Big Data Analysis at Financial University under the Government of the Russian Federation. I live in :ru: Moscow, Russia. 
 
+- :telescope: My professional interests are: Data Science, Anlytics, Machine Learning.
+
+- :seedling: Exploring WEB apps development.
+
+- :zap: In my free time, I participate in competitions on Kaggle and read tech articles.
+
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -42,10 +49,11 @@ I'm a 1st year 👨‍🎓 Master's student in Intellectual analysis of texts an
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongo" width="40" height="40"/>
 </div>
 
+---
 
 ### :pencil2: My Study Projects :
-<script src="https://tarptaeya.github.io/repo-card/repo-card.js"></script>
-<div align="center">
+
+<div align="left">
   <a href="https://github.com/paulyurlov/my_diploma">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paulyurlov&repo=my_diploma&layout=compact&theme=tokyonight&hide_border=True" />
   </a>
@@ -53,3 +61,8 @@ I'm a 1st year 👨‍🎓 Master's student in Intellectual analysis of texts an
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paulyurlov&repo=DAB&layout=compact&theme=tokyonight&hide_border=True" />
   </a>
 </div>
+
+
+### :computer: My Language Stats :
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulyurlov&layout=compact&theme=tokyonight&hide_border=True)
