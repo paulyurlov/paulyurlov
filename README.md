@@ -13,8 +13,8 @@
 </div>
 
 <h1 align="center">
-  Hi 👋, I'm Paul
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Paul
+  
 </h1>
 
 <div align="center">
@@ -33,6 +33,7 @@ I'm a 1st year 👨‍🎓 Master's student in Intellectual analysis of texts an
 
 - :zap: In my free time, I participate in competitions on Kaggle and read tech articles.
 
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -62,6 +63,7 @@ I'm a 1st year 👨‍🎓 Master's student in Intellectual analysis of texts an
   </a>
 </div>
 
+---
 
 ### :computer: My Language Stats :
 
