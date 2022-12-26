@@ -55,8 +55,3 @@ I'm a 1st year 👨‍🎓 Master's student in Intellectual analysis of texts an
 ### :computer: My Language Stats :
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulyurlov&layout=compact&theme=tokyonight&hide_border=True)
-
-
----
-
-### :pencil2: My Study Projects :
