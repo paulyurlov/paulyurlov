@@ -17,7 +17,6 @@
   
 </h1>
 
----
 
 ### :man_technologist: About Me :
 
@@ -45,5 +44,3 @@ I'm a 1st year 👨‍🎓 Master's student in Intellectual analysis of texts an
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgres" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongo" width="40" height="40"/>
 </div>
-
----
